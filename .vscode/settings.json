@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0f05cac4-4be5-4456-9777-4dbd6ddf6706/resourceGroups/reddydt_group/providers/Microsoft.Web/sites/reddydt",
+    "appService.deploySubpath": "webApi1"
+}
